@@ -1,0 +1,6 @@
+Files will have the name of the subject they're studying
+in case you want to run the file in local server, just rename it to
+the default output folder, that is App.just
+
+For example: if you want to run the useState.js file, just rename it to App.js
+There can only be one App.js file
